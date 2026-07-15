@@ -3,8 +3,6 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-const projects = [
-  {
     title: "AI Battleboard",
     desc: "An AI experimentation platform for testing product ideas, workflows, and emerging AI-powered solutions.",
     img: "/images/aibattleboard.png",
