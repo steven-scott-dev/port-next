@@ -3,22 +3,36 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Noir and Gold",
-    desc: "A high-end apparel store blending luxury style with sleek UX design.",
-    img: "/images/noir.png",
-    link: "https://goldnoir.netlify.app/",
+const projects = [
+  {
+    title: "AI Battleboard",
+    desc: "An AI experimentation platform for testing product ideas, workflows, and emerging AI-powered solutions.",
+    img: "/images/aibattleboard.png",
+    link: "https://ai-battle-land.netlify.app/",
   },
   {
-    title: "Elite Cuts Barbershop",
-    desc: "Modern barbershop site with booking and sleek animations.",
-    img: "/images/elitecuts.png",
-    link: "https://barberssite.netlify.app/",
+    title: "Site-Critic",
+    desc: "AI-powered website auditing and business automation platform focused on SEO, performance, and conversion optimization.",
+    img: "/images/sitecritic.png",
+    link: "https://site-critic-phi.vercel.app/",
   },
   {
-    title: "Urban Table",
-    desc: "Restaurant site with modern UI, menu preview, and online reservations.",
-    img: "/images/urban.png",
-    link: "https://restaurantssite.netlify.app/",
+    title: "OutLoud Teens",
+    desc: "A community-driven social platform designed to foster connection, communication, and engagement among teens.",
+    img: "/images/outloudteens.png",
+    link: "https://outloudteens.netlify.app/",
+  },
+  {
+    title: "CloudCalc",
+    desc: "A cloud-based utility and SaaS platform offering productivity tools and streamlined calculations for everyday use.",
+    img: "/images/cloudcalc.png",
+    link: "https://cloudcalcs.netlify.app/",
+  },
+  {
+    title: "Kaden Grace Digital",
+    desc: "A digital agency showcasing web development, SEO, automation, and business growth solutions for local businesses.",
+    img: "/images/kadengrace.png",
+    link: "https://kadengracedigital.netlify.app/",
   },
 ];
 
