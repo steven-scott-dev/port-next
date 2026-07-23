@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 
-const projects = [
+const project = [
   {
     title: "AI Battleboard",
     desc: "An AI experimentation platform for testing product ideas, workflows, and emerging AI-powered solutions.",
